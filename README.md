@@ -1,3 +1,5 @@
+This is the GraphQL Summit workshop project repo that follows along with the [first course in Apollo GraphQL's learning platform, Odyssey](https://odyssey.apollographql.com/lift-off-part1). To view what the code should look like at the end of each lesson, you can view different branches of this repo that follow the naming convention `lesson-1`, `lesson-2`, etc. 
+
 # Odyssey Lift-off I: Basics
 
 Welcome to the companion app of Odyssey Lift-off I! You can [find the course lessons and instructions on Odyssey](https://odyssey.apollographql.com/lift-off-part1), Apollo's learning platform.
