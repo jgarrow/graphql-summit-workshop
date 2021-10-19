@@ -1,4 +1,14 @@
-This is the GraphQL Summit workshop project repo that follows along with the [first course in Apollo GraphQL's learning platform, Odyssey](https://odyssey.apollographql.com/lift-off-part1). To view what the code should look like at the end of each lesson, you can view different branches of this repo that follow the naming convention `lesson-1`, `lesson-2`, etc. 
+This is the GraphQL Summit workshop project repo that follows along with the [first course in Apollo GraphQL's learning platform, Odyssey](https://odyssey.apollographql.com/lift-off-part1). To view what the code should look like at the end of each lesson, you can view different branches of this repo that correspond to the names of the lessons.
+
+| Lesson name                | Repo branch                                                                                                      | 
+| -------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| Feature overview and setup | [feature-overview-and-setup](https://github.com/jgarrow/graphql-summit-workshop/tree/feature-overview-and-setup) |
+| Building our schema        | [building-our-schema](https://github.com/jgarrow/graphql-summit-workshop/tree/building-our-schema)               |
+| Apollo Server              | [apollo-server](https://github.com/jgarrow/graphql-summit-workshop/tree/apollo-server)                           |
+| Apollo Client setup        | [apollo-client-setup](https://github.com/jgarrow/graphql-summit-workshop/tree/apollo-client-setup)               |
+| Defining a query           | [defining-a-query](https://github.com/jgarrow/graphql-summit-workshop/tree/defining-a-query)                     |
+| The useQuery hook          | [usequery-hook](https://github.com/jgarrow/graphql-summit-workshop/tree/usequery-hook)                           |
+
 
 # Odyssey Lift-off I: Basics
 
