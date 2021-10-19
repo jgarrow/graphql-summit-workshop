@@ -1,4 +1,5 @@
 import React from 'react';
+import TrackCard from '../containers/track-card';
 import { Layout } from '../components';
 import {gql, useQuery} from '@apollo/client';
 
@@ -34,7 +35,13 @@ const Tracks = () => {
     return `Error! ${error.message}`
   };
 
-  return <Layout grid>{JSON.stringify(data)}</Layout>;
+  return (
+    <Layout grid>
+      {data?.tracksForHome?.map(track => (
+        <TrackCard key={track.id} track={track} />
+      ))}
+    </Layout>
+  );
 };
 
 export default Tracks;
