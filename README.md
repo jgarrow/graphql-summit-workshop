@@ -2,7 +2,6 @@ This is the GraphQL Summit workshop project repo that follows along with the [fi
 
 | Lesson name                | Repo branch                                                                                                      | 
 | -------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| Feature overview and setup | [feature-overview-and-setup](https://github.com/jgarrow/graphql-summit-workshop/tree/feature-overview-and-setup) |
 | Building our schema        | [building-our-schema](https://github.com/jgarrow/graphql-summit-workshop/tree/building-our-schema)               |
 | Apollo Server              | [apollo-server](https://github.com/jgarrow/graphql-summit-workshop/tree/apollo-server)                           |
 | Apollo Client setup        | [apollo-client-setup](https://github.com/jgarrow/graphql-summit-workshop/tree/apollo-client-setup)               |
